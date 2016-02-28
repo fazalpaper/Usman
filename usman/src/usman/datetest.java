@@ -26,6 +26,7 @@ public class datetest {
 		aa = aa.replace("-", "/");
 
 		aa = aa.replace("/", "-");
+		System.out.println("test");
 
 		int asterisks = 0;
 		for (int i = 0; i < aa.length(); i++) {
