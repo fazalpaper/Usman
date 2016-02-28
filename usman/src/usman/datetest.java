@@ -5,7 +5,7 @@ public class datetest {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		String dddate = "Dec,2001";
+		String dddate = "Dec,2011";
 
 		String day_f = date_format(dddate);
 
